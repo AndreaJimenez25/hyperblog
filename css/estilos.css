@@ -9,7 +9,7 @@ body
 
 #cabecera
 {
-    background: blue;
+    background: gray;
     color: white;
     font-weight: bold;
     margin: 0;
@@ -33,4 +33,11 @@ body
 #container h1
 {
     font-size: 30px;
+}
+#logo 
+{
+ 
+   background: #fff;
+   color: #000; 
+        
 }
